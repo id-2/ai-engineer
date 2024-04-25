@@ -2,7 +2,7 @@ langchain
 openai
 wikipedia
 requests
-pydantic==1.10.8
+pydantic==1.10.13
 tiktoken
 jupyter
 docarray
